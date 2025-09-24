@@ -81,61 +81,57 @@ Availability Zones, or AWS Regions.
 
 ## Snap Shots:
 
- 
-<img width="956" height="566" alt="image" src="https://github.com/user-attachments/assets/db2eb89c-31ea-4e60-88f9-86c201abe9e4" />
-               Snapshot 1: Create VPC
+Snapshot 1: Create VPC
 
-               
-    
+<img width="956" height="566" alt="image" src="https://github.com/user-attachments/assets/db2eb89c-31ea-4e60-88f9-86c201abe9e4" />
+                   
+Snapshot 2: Configuring Subnets
 
 <img width="971" height="494" alt="image" src="https://github.com/user-attachments/assets/0769e886-327c-4213-b9f5-b9abf6be5249" />
-               Snapshot 2: Configuring Subnets
-
-               
-     
+   
+Snapshot 3: Configure Subnets
 
 <img width="971" height="555" alt="image" src="https://github.com/user-attachments/assets/b7d22766-3a60-4239-bd74-db7d467d2d2d" />
-               Snapshot 3: Configure Subnets
+               
 
                
-      
+Snapshot 4: Setting Internet gateway   
 
 <img width="1008" height="554" alt="image" src="https://github.com/user-attachments/assets/6291d82d-9bb8-43b3-bf57-f28fea8f0089" />
-              Snapshot 4: Setting Internet gateway
-       
+              
+Snapshot 5: Setting Internet gateway       
 
 <img width="1041" height="629" alt="image" src="https://github.com/user-attachments/assets/9206adb1-70e0-4a67-9e5b-b53007a4ceba" />
-              Snapshot 5: Setting Internet gateway
-
               
+
+Snapshot 6: Setting Internet gateway             
         
 
- <img width="1042" height="562" alt="image" src="https://github.com/user-attachments/assets/5c303ef8-4f21-4546-8c6e-e83603884054" />
-              Snapshot 6: Setting Internet gateway
-
+<img width="1042" height="562" alt="image" src="https://github.com/user-attachments/assets/5c303ef8-4f21-4546-8c6e-e83603884054" />
               
-          
 
+Snapshot 7: Creating route table             
+          
 <img width="993" height="636" alt="image" src="https://github.com/user-attachments/assets/9baaab46-e927-47e4-93be-ec559c0da284" />
-             Snapshot 7: Creating route table
+             
 
              
-          
+Snapshot 8: Configuring route table        
 
- <img width="995" height="565" alt="image" src="https://github.com/user-attachments/assets/af31a0f8-99b7-450d-b292-50c0e2490ae3" />
-             Snapshot 8: Configuring route table
+<img width="995" height="565" alt="image" src="https://github.com/user-attachments/assets/af31a0f8-99b7-450d-b292-50c0e2490ae3" />
+             
 
              
-          
+Snapshot 9: Editing routes        
 
 <img width="1002" height="552" alt="image" src="https://github.com/user-attachments/assets/399a8eb8-89e1-4a7b-b25a-9cdc2558b918" />
-              Snapshot 9: Editing routes
+              
 
               
-          
+Snapshot 10: Creating route table        
 
 <img width="978" height="517" alt="image" src="https://github.com/user-attachments/assets/32387777-87a3-461f-99cb-fb0fc41f16a2" /> 
-             Snapshot 10: Creating route table
+             
 			 
 ## Result:
 Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated, isolated network where we can manage our resources and control access according to our requirements.
